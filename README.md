@@ -10,7 +10,7 @@
 
 我们现在虽然没什么具体工作，但需要先建立一个能让大家一起学代码的正常流程。
 
-我建了一个仓库：（这里贴仓库链接）
+我建了一个仓库：https://github.com/lusgli-0/learning-group
 
 里面现在只有一个 README.md。这周要做的事很简单：把你自己的 GitHub 主页地址（比如 https://github.com/lusgli-0）写进这个文件，然后发一个 Pull Request（PR）请求合并。
 
