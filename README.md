@@ -21,6 +21,8 @@ DBY: https://github.com/dengboyu412-lang
 
 QZH：https://github.com/3783764392-coder
 
+bjn-white7：https://github.com/bjn-white7
+
 ---------------------------------------------
 各位朋友：
 
@@ -113,4 +115,3 @@ Fork → Clone → 建分支 → 修改 → commit → **pull** → push → 发
 - 这周没有明显进展，说说遇到的困难同样受欢迎。
 
 我们希望用宽松、真诚的氛围，让更多同学愿意留下来、愿意开口、愿意动手，让技术真正服务于大家的学习与成长。
-- bjn-white7：https://github.com/bjn-white7
