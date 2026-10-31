@@ -21,6 +21,8 @@ DBY: https://github.com/dengboyu412-lang
 
 QZH：https://github.com/3783764392-coder
 
+bjn-white7：https://github.com/bjn-white7
+
 ---------------------------------------------
 各位朋友：
 
