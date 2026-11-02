@@ -28,7 +28,7 @@ bjn-white7：https://github.com/bjn-white7
 
 如果你是第一次来部门，先把自己的 GitHub 主页地址（比如 https://github.com/lusgli-0）写进这个文件，然后发一个 Pull Request（PR）请求合并。
 
-Fork → Clone → 建分支 → 修改 → commit → **pull** → push → 发 PR
+fork → clone → upstream → pull → branch → switch → add → commit → push → PR
 
 以下是这个部门的一些规定和流程：
 
