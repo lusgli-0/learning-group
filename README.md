@@ -58,4 +58,4 @@ Review 指南（怎么写评论、怎么用 Request changes / Approve）
 群里的公告我也会再发一份。
 
 祝大家中秋国庆快乐！
-https://github.com/001026-ai
+RYB:https://github.com/001026-ai
